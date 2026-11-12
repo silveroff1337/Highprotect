@@ -1,0 +1,14 @@
+# Локальная конфигурация и секреты
+/config.json
+/.env
+/.env.*
+
+# Зависимости, окружения и кэш Python
+/.highprotect-runtime/
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+
+# Логи
+*.log
